@@ -16,7 +16,9 @@ La première scène commence toujours lors d'une réunion de la Société, dans 
 
 Les joueurs vont ensuite pouvoir interagir, décrire les actions de leurs personnages, interpréter leurs réactions, dialoguer et faire assaut de bons mots. Tant qu'ils agissent avec discrétion dans le cadre décrit rien de particulier ne se passe et tout le monde autour de la table peut apprécier ce moment.
 
-**Quand un des joueurs \(l'Etat ou un des mages\) pense que ce qui est dit n'est pas raisonnable, pas réaliste, en somme que de la magie est à l'oeuvre, il le signale aux autres, afin de procéder à un tirage de carte.**
+**Quand un des joueurs \(l'Etat ou un des mages\) pense que ce qui est dit n'est pas raisonnable, pas réaliste, en somme que de la magie est à l'oeuvre, il le signale aux autres, afin de vérifier la validité de la chose par un tirage de carte.**
 
-Si une action de l'Etat est mise en cause, il va devoir donner des informations supplémentaires pour rendre sa cohérence à l'action. Si une action d'un mage est mise en cause, il va expliquer le tour de magie qu'il a effectué.
+Si une action de l'Etat est mise en cause, il va devoir donner des informations supplémentaires pour rendre sa cohérence à l'action \(car l'Etat ne fait pas de magie\). Si une action d'un mage est mise en cause, il va expliquer le tour de magie qu'il a effectué.
+
+Ensuite celui qui conteste va tirer une carte
 
