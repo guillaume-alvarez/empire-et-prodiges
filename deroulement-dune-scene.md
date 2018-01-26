@@ -18,5 +18,5 @@ Les joueurs vont ensuite pouvoir interagir, décrire les actions de leurs person
 
 **Quand un des joueurs \(l'Etat ou un des mages\) pense que ce qui est dit n'est pas raisonnable, pas réaliste, en somme que de la magie est à l'oeuvre, il le signale aux autres, afin de procéder à un tirage de carte.**
 
-
+Si une action de l'Etat est mise en cause, il va devoir donner des informations supplémentaires pour rendre sa cohérence à l'action. Si une action d'un mage est mise en cause, il va expliquer le tour de magie qu'il a effectué.
 
