@@ -6,7 +6,11 @@ Les autres joueurs incarneront des mages, magiciens ou magiciennes, membres de l
 
 **L'Etat commence par battre le paquet de cartes, et le fera chaque fois qu'il l'estimera nécessaire. Il procèdera à tous les tirages requis lors de la partie et distribuera les cartes si nécessaire.**
 
-Il distribue 4 cartes à chacun des mages. Ceux-ci vont mettent ensuite chaque carte reçue un post-it indiquant le nom d'une personne, un objet ou un lieu qui leur est particulièrement cher. Ils expliquent pourquoi aux autres joueurs et racontent un évènement particulièrement important ou émotionnel qui y est lié.
+Il distribue 4 cartes à chacun des mages, face cachée pour que chacun ne connaisse que ses propre cartes. Ceux-ci collent ensuite sur le dos chaque carte reçue un post-it \(donc visible des autres joueurs\) indiquant le nom d'une personne, un objet ou un lieu qui leur est particulièrement cher. Ils en expliquent le pourquoi aux autres joueurs en racontent un évènement particulièrement important ou émotionnel qui y est lié.  Les mages sont encouragés à en profiter pour décrire les liens entre eux, bien sûr avec l'accord mutuel des joueurs.
 
-Julien reçoit ses cartes. Sur la première il note "Ma mère Sophia, qui m'a protégé de la faim" et raconte comment sa mère a volé du pain pour qu'il puisse manger quand il n'était qu'un enfant. Sur la deuxième il note "Mon frère Joris, qui m'a tout appris" et raconte l'anniversaire où son frère lui a offert son premier livre d'alchimie, un vieil opuscule de Flamel mal imprimé aux feuilles trop facilement volantes. Pour la troisième il ne sait que mettre et propose donc à Michel, un autre mage, de continuer si lui a des idées.
+> _Julien reçoit ses cartes en premier. Sur la première il note "Ma mère Sophia, qui m'a protégé de la faim" et raconte comment sa mère a volé du pain pour qu'il puisse manger quand il n'était qu'un enfant. Sur la deuxième il note "Mon frère Joris, qui m'a tout appris" et raconte l'anniversaire où son frère lui a offert son premier livre d'alchimie, un vieil opuscule de Flamel mal imprimé aux feuilles trop facilement volantes._
+>
+> _Pour la troisième il ne sait que mettre et propose donc à Michel, un autre mage, de continuer si lui a des idées. Quand il se retrouve le dernier à devoir parler, Julien a trouvé une idée pour sa troisième carte : il note "le laboratoire de Michel" et raconte comment celui-ci l'a pris comme apprenti avant qu'il ne fasse ses preuves. Michel approuve explicitement car cela le concerne directement, il aurait pu refuser cette relation mais il aime cette idée._
+
+
 
