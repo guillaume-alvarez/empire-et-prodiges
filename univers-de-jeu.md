@@ -1,4 +1,10 @@
 # Univers de jeu
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Ce jeu de rôle permet d'incarner des magiciens versés en alchimie et astrologie à l'époque du [Directoire](https://fr.wikipedia.org/wiki/Directoire) et du [Premier Empire](https://fr.wikipedia.org/wiki/Premier_Empire).
+
+Cette péridoe se caractérise, après l'explosion de la [Révolution](https://fr.wikipedia.org/wiki/R%C3%A9volution_fran%C3%A7aise), par le retour à un certain ordre social et moral où l'état tient la société bien en main. Dans la république censitaire du Directoire comme dans l'Empire napoléonien, les guerres étrangères \(contre l'Autriche, l'Angleterre, la Prusse, etc.\) sont la principal activité de l'état, le principal sujet de la politique. Les libertés individuelles existent mais la police a tout pouvoir en cas de suspicion de sédition.
+
+L'aristocratie d'[Ancien Régime](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_d%27Ancien_R%C3%A9gime) a pu revenir sur ses terres et doit maintenant partager le pouvoir avec la bourgeoisie et les nouveaux officiers issus des [guerres révolutionnaires](https://fr.wikipedia.org/wiki/Guerres_de_la_R%C3%A9volution_fran%C3%A7aise). Ces différentes forces s'accordent à mettre un terme aux excès sociaux de la Révolution, n'étant en conflit que sur l'importance de la Guerre et de la Paix pour la prospérité du pays. Autant les militaires y trouvent une voix d'excellence, autant la bourgeoisie, hors quelques profiteurs de guerre, apprécierait un peu plus de stabilité. La vieille aristocratie est quand à elle partagée entre l'opportunité de la guerre pour se refaire une réputation dans le cadre national et la parenté de ses hautes figures avec les têtes couronnées adverses.
+
+Les cadres religieux sont revenus bien en place. Les abbés, curés, évêques et autres robes noires sont des notables de Paris aux petits villages, souvent utilisés comme conseillers par les plus riches, directeurs par les plus pauvres, enseignant à tous leurs connaissances. Leur retour en grâce s'accompagne cependant de l'arrivée dans leurs rangs de [nombreux ambitieux](https://fr.wikipedia.org/wiki/Julien_Sorel) pour qui la carrière a bien plus d'importance que la Foi.
 
