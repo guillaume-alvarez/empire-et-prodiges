@@ -1,6 +1,6 @@
 # Déroulement d'une scène
 
-La partie sera une suite de scènes, jusqu'au succès d'un rituel et la victoire des mages ou leur mort.
+La partie sera une suite de scènes, jusqu'au succès d'un rituel mené par les mages.
 
 ### Bien commencer les choses
 
@@ -18,6 +18,8 @@ Les joueurs vont ensuite pouvoir interagir, décrire les actions de leurs person
 
 Quand un des joueurs \(l'Etat ou un des mages\) pense que ce qui est dit n'est pas raisonnable, pas réaliste, que de la magie est à l'oeuvre, que la cohérence est violée, en somme est offensé, il le signale aux autres, afin de vérifier la validité de la chose par un tirage de carte entre les joueurs impliqués et de clore la scène en cours.
 
+Il est possible d'arrêter une scène sans cela évidemment, si tous les mages et l'Etat présents dans la scène en cours s'accordent sur le lieu et le temps de la prochaine scène. L'action sera alors décidée par chaque mage pour leur personnage.
+
 ### Tirer les cartes
 
 Le joueur contredit va devoir donner des informations supplémentaires pour rendre sa cohérence à l'action. Si une action d'un mage est mise en cause, il peut expliquer le tour de magie qu'il a effectué, sans en révéler les arcanes il doit au moins en décrire l'exécution. Dans tous les cas, les explications peuvent remonter un peu dans le temps pour expliciter les choses. Les enjeux doivent être clairs pour les joueurs impliqués.
@@ -32,7 +34,7 @@ Si l'auteur de l'action initiale gagne le pli, il doit aussi écrire sur un post
 
 Les cartes jouées sont mises ensuite dans la défausse des joueurs les ayant jouées. Elles pourront être remises dans sa main quand il aura défaussé toutes ses cartes, donc après 8 actions contredites.
 
-Si l'Etat gagne le pli, il peut aussi décider de l'action de la prochaine scène \(peut-être les mages devront-ils s'évader de prison ?\), sinon ce sont les mages qui en décident pour leur personnage
+Si l'Etat gagne le pli, il peut aussi décider de l'action de la prochaine scène \(forcément en lien avec la Police ou la Guerre\), sinon ce sont les mages qui en décident pour leur personnage
 
 Dans tous les cas la scène s'arrête et l'Etat en lance une nouvelle.
 
