@@ -8,7 +8,7 @@ Les autres joueurs incarneront des mages, magiciens ou magiciennes, membres de l
 
 Il distribue 7 cartes à chacun des mages, face cachée pour que chacun ne connaisse que ses propre cartes.
 
-Chacun des mage colle ensuite sur le dos de ses 4 cartes de rang le plus élevé un post-it \(donc visible des autres joueurs\) indiquant le nom d'une personne, un objet ou un lieu qui leur est particulièrement cher. Ils en expliquent le pourquoi aux autres joueurs en racontent un évènement particulièrement important ou émotionnel qui y est lié.  Les mages sont encouragés à en profiter pour décrire les liens entre eux, bien sûr avec l'accord mutuel des joueurs.
+Chacun des mage colle ensuite sur le dos de ses 4 cartes de rang le plus élevé \(donc valet, dame, roi et as\) un post-it indiquant le nom d'une personne, un objet ou un lieu qui leur est particulièrement cher. Ils en expliquent le pourquoi aux autres joueurs en racontent un évènement particulièrement important ou émotionnel qui y est lié.  Les mages sont encouragés à en profiter pour décrire les liens entre eux, bien sûr avec l'accord mutuel des joueurs.
 
 > _Julien reçoit ses cartes en premier. Sur la première il note "Ma mère Sophia, qui m'a protégé de la faim" et raconte comment sa mère a volé du pain pour qu'il puisse manger quand il n'était qu'un enfant. Sur la deuxième il note "Mon frère Joris, qui m'a tout appris" et raconte l'anniversaire où son frère lui a offert son premier livre d'alchimie, un vieil opuscule de Flamel mal imprimé aux feuilles trop facilement volantes._
 >
