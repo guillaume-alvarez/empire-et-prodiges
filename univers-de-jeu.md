@@ -14,7 +14,7 @@ Les bouleversements sociaux de l'époque précédentes ont néanmoins laissé da
 
 La carrière des sciences, enfin, commence à montrer son intérêt. Les travaux sur l'électricité, la physique ou la chimie passionnent les gens de bien qui subventionnent tel ou tel inventeur. L'autre **Science**, celle qui puise ses traditions jusqu'à l'Egypte Ancienne, n'est pas en reste. Les salons buissent d'**expériences alchimiques**, d'études de **thèmes astrologiques**, de récits de rencontre avec les **Fées.**
 
-### La Magie
+### La Science
 
 Si la noble Société des Magiciens de France \(généralement appelée "**la Société**" par les initiés\) ne peut pas faire condamner tous les charlatans, elle peut au moins organiser entre une coopération fructueuse entre les magiciens de bonne réputation. Elle organise des colloques \(secrets\), des correspondances \(très privées\) et des filières permettant de se procurer toute sorte d'objets \(occultes\). Elle fournit aussi l'occasion pour les hommes se piquant de magie de se frotter à de vrais sorciers, capables de tours simples comme de grands rituels. En somme, la Société est l'institution française de référence pour l'étude de ce que les profanes appellent encore "Magie" et est reconnue comme telle par les plus hauts dignitaires du gouvernement.
 
