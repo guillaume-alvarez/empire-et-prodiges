@@ -26,3 +26,11 @@ Mais qu'est-ce que la Science ? C'est avant tout le talent de manier les symbole
 
 Tout mage digne de ce titre peut facilement faire un **tour** pour influencer une chose de son envergure : une personne, un animal, un objet.  Pour marquer une multitude ou des choses plus grandes il faut par contre un **rituel**, une oeuvre de magie collective qui après moult préparatifs peut changer la face du monde.
 
+> _Nicolas cherchait discrètement dans sa poche de quoi se tirer des griffes de cette bande. Alors qu'ils se rapprochaient, les poignards bien en vue, il mit la main sur une aiguille que sa gouvernante avait laissé dans la doublure de son manteau. Sans attendre il la plongea dans la flamme de sa lanterne et murmura le nom de Mars-qui-gouverne-les-fers. Les malandrins lâchèrent immédiatement leurs couteaux, jurant et crachant sur leurs paumes brûlées._
+>
+> _Albert finissait de préparer son onguent avec une fiole de sang de sa mère. Puis il enduisit lentement le corps mort de sa soeur, psalmodiant une pière à Pluton-qui-garde-les-morts. Enfin il colla ses lèvres à celles bleuies du cadavre et fit entrer le mot de Vie en elle. Elle cligna des yeux et cria en retour, comme un bébé qui vient de naître à nouveau._
+>
+> _Michel leva la main droite, figurant de ses doigts la posture du juge, hiératique sur sa chaise haute et le marteau à la main. Il serrait de la main gauche la lettre de convocation signée de l'homme de loi. Quand il fut sûr de son emprise, il murmura "non coupable" et abaissa son auriculaire d'un coup sec. Le juge l'innocenta d'une voix comme faussée par l'émotion et abatit son marteau d'un geste que certains trouvèrent erratique._
+
+
+
