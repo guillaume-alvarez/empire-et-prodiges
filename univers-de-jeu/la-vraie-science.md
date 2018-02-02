@@ -18,7 +18,7 @@ Tout mage digne de ce titre peut facilement faire un **tour** pour influencer un
 >
 > _Michel leva la main droite, figurant de ses doigts la posture du juge, hiératique sur sa chaise haute et le marteau à la main. Il serrait de la main gauche la lettre de convocation signée de l'homme de loi. Quand il fut sûr de son emprise, il murmura "non coupable" et abaissa son auriculaire d'un coup sec. Le juge l'innocenta d'une voix comme faussée par l'émotion et abatit son marteau d'un geste que certains trouvèrent erratique._
 >
-> _Jean tournait depuis presque trois longues heures autour du rocher d'Essé. Laisser goutter tout ce temps le sang de son engagement l'avait épuisé et il espérait que ce tour fonctionnerait. Quand il se réveilla, un gentilhomme d'allure étrange, les cheveux coiffés comme un chardon argenté, le regardait de haut. Quand il lui tendit la main, Jean la serra sans hésiter : il avait trop sacrifié, trop espéré, pour renoncer maintenant._
+> _Jean tournait depuis presque trois longues heures autour du rocher d'Essé. Laisser goutter tout ce temps le sang de son engagement l'avait épuisé et il espérait que ce tour fonctionnerait. Il chut lourdement, corps et consicence s'abîmant sur l'ancien tertre. Quand il se réveilla, un gentilhomme d'allure étrange, les cheveux coiffés comme un chardon argenté, les vêtements richements garnis de pierreries et de perles mais datés, le regardait de haut. Il lui tendit la main, Jean la serra sans hésiter : il avait trop sacrifié, trop espéré, pour renoncer maintenant._
 
 
 

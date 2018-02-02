@@ -8,5 +8,7 @@ Les cadres religieux sont revenus bien en place. Les abbés, curés, évêques e
 
 Les bouleversements sociaux de l'époque précédentes ont néanmoins laissé dans l'esprit de tous, manoeuvre, boutiquier, marchand ou clerc, l'idée qu'avec leurs compétences et l'aide de la Providence ils pourront améliorer leur état. La carrière militaire a permis à des va-nu-pieds de devenir généraux parait-il, la carrière éclésiastique peut facilement mener à de lucratifs postes de précepteurs dans de bonnes familles, voire à une chaire ou un charge fort rémunératrice.
 
-La carrière des sciences, enfin, commence à montrer son intérêt. Les travaux sur l'électricité, la physique ou la chimie passionnent les gens de bien qui subventionnent tel ou tel inventeur. L'autre **Science**, celle qui puise ses traditions jusqu'à l'Egypte Ancienne, n'est pas en reste. Les salons buissent d'**expériences alchimiques**, d'études de **thèmes astrologiques**, de récits de rencontre avec les **Fées.**
+La carrière des sciences, enfin, commence à montrer son intérêt. Les travaux sur l'électricité, la physique ou la chimie passionnent les gens de bien qui subventionnent tel ou tel inventeur.
+
+La Vraie **Science**, celle qui puise ses traditions jusqu'à l'Egypte Ancienne, n'est pas en reste. Les salons buissent d'**expériences alchimiques**, d'études de **thèmes astrologiques**, de récits de rencontre avec les **Fées.**
 
