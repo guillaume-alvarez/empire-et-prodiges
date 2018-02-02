@@ -22,13 +22,13 @@ Ces objets et connaissances sont représentées par les post-its sur les cartes 
 
 Tous les mages participant à un rituel doivent être d'accord sur ce qui arrivera s'il réussit. Il ne peut y avoir ici nulle dissimulation.
 
-### L'exécuter avec brio
+### L'exécuter avec talent
 
-Lors d'une scène se déroulant en un lieu et un moment adéquat \(les mages sauront certainement lesquels\) les mages peuvent exécuter le rituel qu'ils ont prévu.
+Lors d'une scène se déroulant en un lieu et un moment adéquat \(les mages sont les experts du sujet et sauront certainement lesquels\) les mages peuvent exécuter le rituel qu'ils ont prévu.
 
 Il vont révéler les différents post-its montrant les différents élément requis \(un par ligne de la colonne choisie pour le rituel\) et décrire le déroulement du rituel et ses conséquences pour la société, la ville, la personne, l'entité visée.
 
-Tout désaccord entre les mages cause l'échec du rituel. La partie s'arrête alors sur cet échec.
+**Tout désaccord entre les mages cause l'échec du rituel.** L'Etat en profite alors pour imposer sa volonté et la partie s'arrête sur cet échec.
 
 En épilogue, les joueurs peuvent décrire tour à tour les conséquences pour leur personnage. L'Etat peut en décrire les effets sur plusieurs personnages qu'il a incarné.
 

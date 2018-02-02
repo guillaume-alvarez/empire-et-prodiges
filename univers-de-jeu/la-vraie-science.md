@@ -8,7 +8,7 @@ Mais qu'est-ce que la Science ? C'est avant tout le talent de manier les symbole
 
 * **le contact spirituel survit à l’éloignement physique** Ce qui une fois a été un, reste lié. Des cheveux ou du sang d’une personne peuvent permettre de lui lancer un sort, de l’influencer. Une mère qui retrouve son enfant le reconnaît immédiatement. L’amoureux sent que sa belle est en danger.
 
-C'est aussi la possibilité d'en appeler à la réalité derrière les symboles que perçoivent nos sens : les fées derrière le bosquet, l'esprit derrière le corps, le Seigneur derrière la croix.
+C'est aussi la possibilité d'en appeler à la réalité derrière les symboles que perçoivent nos sens : les **Fées** derrière le bosquet, l'esprit derrière le corps, le Seigneur derrière la croix.
 
 Tout mage digne de ce titre peut facilement faire un **tour** pour influencer une chose de son envergure : une personne, un animal, un objet.  Pour marquer une multitude ou des choses plus grandes il faut par contre un **rituel**, une oeuvre de magie collective qui après moult préparatifs peut changer la face du monde.
 

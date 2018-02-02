@@ -22,7 +22,7 @@ Il est possible d'arrêter une scène sans cela évidemment, si tous les mages e
 
 ### Tirer les cartes
 
-Le joueur contredit va devoir donner des informations supplémentaires pour rendre sa cohérence à l'action. Si une action d'un mage est mise en cause, il peut expliquer le tour de magie qu'il a effectué, sans en révéler les arcanes il doit au moins en décrire l'exécution. Dans tous les cas, les explications peuvent remonter un peu dans le temps pour expliciter les choses. Les enjeux doivent être clairs pour les joueurs impliqués.
+Le joueur contredit va devoir donner des informations supplémentaires pour rendre sa cohérence à l'action. Si une action d'un mage est mise en cause, il peut expliquer le tour de magie qu'il a effectué, sans en révéler les arcanes il doit au moins en décrire l'exécution. Bien entendu les explications peuvent remonter un peu dans le temps pour expliciter les choses. Les enjeux doivent être clairs pour les joueurs impliqués.
 
 Ensuite chacun des deux joueurs va jouer une carte de sa main face caché. Les cartes jouées sont révélée simultanément devant tous les joueurs.**.**
 
