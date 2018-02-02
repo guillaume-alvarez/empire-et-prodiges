@@ -28,7 +28,7 @@ Ensuite chacun des deux joueurs va jouer une carte de sa main face caché. Les c
 
 **La carte de rang le plus élevé donne le droit au joueur l'ayant posé de décider de la Vérité pour l'action** mise en cause \(le tour a-t-il fonctionné ? avec quels effets ? le personnage a-t-il détecté la tentative de manipulation ? va-t-il céder au chantage ? des soldats sont-ils présents à proximité ?\). Il peut aussi décider du lieu et du temps de la prochaine scène.
 
-**Si les cartes sont de valeur égales, le contradicteur gagne le pli.**
+**Si les cartes sont de même rang, le contradicteur gagne le pli.**
 
 **Si une carte jouée avait un post-it, la personne ou l'objet indiqué doit être sacrifié lors de l'action.** Le joueur ayant gagné le pli doit inclure cela dans sa description. Le joueur ayant posé la carte peut évidemment aussi prendre la parole pour enrichir la description.
 
