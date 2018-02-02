@@ -18,7 +18,7 @@ Un rituel nécessite de posséder 7 objets ou de connaissances dans l'un ou l'au
 | Etain | Jupiter | Topaze | Orgueil |
 | Plomb | Saturne | Grenat | Paresse |
 
-Ces connaissances sont représentées par des post-its sur des cartes dans les mains des différents mages. Plusieurs mages peuvent regrouper leurs possessions pour un rituel commun.
+Ces objets et connaissances sont représentées par les post-its sur les cartes dans les mains des différents mages, obtenus lors des différentes scènes de la partie. Plusieurs mages peuvent regrouper leurs possessions pour un rituel commun.
 
 Tous les mages participant à un rituel doivent être d'accord sur ce qui arrivera s'il réussit. Il ne peut y avoir ici nulle dissimulation.
 
