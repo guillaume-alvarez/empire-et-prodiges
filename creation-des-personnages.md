@@ -4,9 +4,9 @@ Un des joueur incarnera l'Etat, présidant la partie, décrivant les décors des
 
 Les autres joueurs incarneront des mages, magiciens ou magiciennes, membres de la Société, cherchant à laisser leur marque dans l'Histoire de la Science et de la France. Chacun peut se choisir un nom, s'il ne souhaite pas utiliser celui par lequel les autres joueurs le connaissent déjà. Qu'il le dise clairement maintenant et le note sur post-it devant lui.
 
-**L'Etat commence par battre le paquet de cartes, et le fera chaque fois qu'il l'estimera nécessaire. Il procèdera à tous les tirages requis lors de la partie et distribuera les cartes si nécessaire.**
+**L'Etat commence par battre le paquet de cartes, et le fera chaque fois qu'il l'estimera nécessaire.**
 
-Il distribue 7 cartes à chacun des mages, face cachée pour que chacun ne connaisse que ses propre cartes.
+Il distribue les 8 cartes d'une couleur à chacun des mages, face cachée pour que chacun ne connaisse que ses propre cartes.
 
 Chacun des mage colle ensuite sur le dos de ses 4 cartes de rang le plus élevé \(donc valet, dame, roi et as\) un post-it indiquant le nom d'une personne, un objet ou un lieu qui leur est particulièrement cher. Ils en expliquent le pourquoi aux autres joueurs en racontent un évènement particulièrement important ou émotionnel qui y est lié.  Les mages sont encouragés à en profiter pour décrire les liens entre eux, bien sûr avec l'accord mutuel des joueurs.
 
@@ -17,6 +17,4 @@ Chacun des mage colle ensuite sur le dos de ses 4 cartes de rang le plus élevé
 Les cartes de chaque mage, avec ou sans post-it, sont sa **main**. Ils pourront les jouer quand ils exécutent des tours magiques, ou les garder précieusement pour effectuer un rituel et finir la partie.
 
 Enfin l'Etat va expliquer la problématique de cette partie, tenant compte des discussions ayant eu lieu précédemment. Cette problématique doit impliquer les différents mages et les pousser à s'opposer à l"Etat. Elle conduit à différent rituels possibles pour la résoudre.
-
-
 
