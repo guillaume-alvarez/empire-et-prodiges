@@ -26,7 +26,7 @@ Le joueur contredit va devoir donner des informations supplémentaires pour rend
 
 Ensuite chacun des deux joueurs va jouer une carte de sa main face caché. Les cartes jouées sont révélée simultanément devant tous les joueurs, la carte de rang le plus élevé donnant le droit au joueur l'ayant posé de décider de la Vérité pour l'action mise en cause \(le tour a-t-il fonctionné ? avec quels effets ? le personnage a-t-il détecté la tentative de manipulation ? va-t-il céder au chantage ? des soldats sont-ils présents à proximité ?\). Il peut aussi décider du lieu et du temps de la prochaine scène.
 
-Si les cartes sont de valeur égales, le contradicteur gagne le pli.
+**Si les cartes sont de valeur égales, le contradicteur gagne le pli.**
 
 Si une carte jouée avait un post-it, la personne ou l'objet indiqué doit être supprimé pour enlever la carte. Le joueur ayant gagné le pli doit inclure cela dans sa description. Le joueur ayant posé la carte peut évidemment aussi prendre la parole pour enrichir la description.
 
