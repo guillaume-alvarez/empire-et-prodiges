@@ -14,5 +14,5 @@ Chacun des mage colle ensuite sur le dos de ses 4 cartes de rang le plus élevé
 
 Les cartes de chaque mage, avec ou sans post-it, sont sa **main**. Ils pourront les jouer quand ils exécutent des tours magiques, ou les garder précieusement pour effectuer un rituel et finir la partie.
 
-Enfin l'Etat va expliquer la problématique de cette partie, tenant compte des discussions ayant eu lieu précédemment. Cette problématique doit impliquer les différents mages et les pousser à s'opposer à l"Etat. Elle conduit à différent rituels possibles pour la résoudre.
+Enfin l'Etat va expliquer la problématique de cette partie, tenant compte des discussions ayant eu lieu précédemment. Cette problématique doit impliquer les différents mages et les pousser à s'opposer à l"Etat. Elle permet aux mages d'envisager différent rituels possibles pour la résoudre.
 
