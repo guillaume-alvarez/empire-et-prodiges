@@ -34,7 +34,7 @@ Ensuite chacun des deux joueurs va jouer une carte de sa main face caché. Les c
 
 **Si l'auteur de l'action initiale gagne le pli, il doit aussi écrire sur un post-it ce qu'il a obtenu et le coller sur la carte.**
 
-**Les cartes jouées sont mises ensuite dans la défausse des joueurs les ayant jouées.** Elles pourront être remises dans leur main quand il aura défaussé toutes ses cartes, donc après 8 actions contredites.
+Enfin, **les cartes jouées sont mises dans la défausse des joueurs les ayant jouées.** Elles pourront être remises dans leur main quand il aura défaussé toutes ses cartes, donc après 8 actions contredites.
 
 Si l'Etat gagne le pli, il peut aussi décider de l'action de la prochaine scène \(forcément en lien avec la Police ou la Guerre\), sinon ce sont les mages qui en décident pour leur personnage.
 
