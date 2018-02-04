@@ -21,5 +21,7 @@ Il faut pour jouer
 
 [Jonathan Strange & Mr Norrell](https://fr.wikipedia.org/wiki/Jonathan_Strange_et_Mr_Norrell) de Susanna Clarke, très bon roman fantastique se déroulant en Angleterre à la même période. La [série](https://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell_%28miniseries%29) est aussi de grande qualité.
 
+[The Magicians](https://fr.wikipedia.org/wiki/The_Magicians), série sympathique bien imagée sur les tourments de magiciens à notre époque.
+
 [Ars Magica](http://www.legrog.org/jeux/ars-magica), le jeu de rôle avec le système de magie le plus complet que je conaisse, riche jusqu'à l'overdose.
 
