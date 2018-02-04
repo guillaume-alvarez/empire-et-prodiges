@@ -1,6 +1,6 @@
 # Empire et Prodiges
 
-Ce jeu de rôle permet d'incarner des mages à l'époque du [Directoire](https://fr.wikipedia.org/wiki/Directoire) et du [Premier Empire](https://fr.wikipedia.org/wiki/Premier_Empire).
+Ce jeu de rôle permet d'incarner des mages à l'époque du [Directoire](https://fr.wikipedia.org/wiki/Directoire) et du [Premier Empire](https://fr.wikipedia.org/wiki/Premier_Empire). Faisant assaut de civilités et probablement quelques tours de magie, sacrifiant peut-être leurs possessions et relations les plus chères, ils changeront peut-être la société.
 
 Une partie prend 3 à 5 heures de jeu.
 
