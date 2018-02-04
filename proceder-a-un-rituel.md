@@ -6,7 +6,7 @@ Un rituel finit forcément en histoire, tout en ouvrant sur une prochaine. En pr
 
 ### Se préparer correctement
 
-Un rituel nécessite de posséder 7 objets ou connaissances dans l'un ou l'autre domaine :
+Un rituel nécessite de posséder 7 atouts dans l'un ou l'autre domaine :
 
 | Métaux | Planètes | Pierre | Péchés |
 | :--- | :--- | :--- | :--- |
@@ -18,7 +18,7 @@ Un rituel nécessite de posséder 7 objets ou connaissances dans l'un ou l'autre
 | Etain | Jupiter | Topaze | Orgueil |
 | Plomb | Saturne | Grenat | Paresse |
 
-Ces objets et connaissances sont représentées par les post-its sur les cartes des différents mages, obtenus lors des scènes tout au long de la partie. Plusieurs mages peuvent regrouper leurs possessions pour un rituel commun.
+Ces objets et connaissances sont normalement représentées par les post-its sur les cartes des différents mages, obtenus lors des scènes tout au long de la partie. Plusieurs mages peuvent regrouper leurs atouts pour un rituel commun.
 
 Tous les mages participant à un rituel doivent être d'accord sur ce qui arrivera s'il réussit. Il ne peut y avoir ici nulle dissimulation.
 
@@ -26,7 +26,7 @@ Tous les mages participant à un rituel doivent être d'accord sur ce qui arrive
 
 Lors d'une scène se déroulant en un lieu et un moment adéquat \(les mages sont les experts du sujet et sauront certainement lesquels\) les mages peuvent exécuter le rituel qu'ils ont prévu.
 
-Il vont révéler les différents post-its montrant les différents élément requis \(un par ligne de la colonne choisie pour le rituel\) et décrire le déroulement du rituel et ses conséquences pour la société, la ville, la personne, l'entité visée.
+Il vont révéler les différents atouts requis \(un par ligne de la colonne choisie pour le rituel, le lien peut être symbolique, mais doit être clair\) et décrire le déroulement du rituel et ses conséquences pour la société, la ville, la personne, l'entité visée.
 
 **Tout désaccord entre les mages cause l'échec du rituel.** L'Etat en profite alors pour imposer sa volonté et la partie s'arrête sur cet échec.
 

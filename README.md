@@ -12,7 +12,7 @@ Il faut pour jouer
 * un jeu de 32 cartes
   * 4 **couleurs** \(coeur, carreau, pique et trèfle\)
   * 8 **rangs** \(par ordre croissant : de 7 à 10 puis valet, dame, roi et as\)
-* des post-its ou petits papiers équivalents qu'on peut attacher à des cartes à jouer
+* des post-its ou petits papiers équivalents qu'on peut attacher à des cartes pour figurer les **atouts**
 * ces règles
 * une table et des chaises \(ou des fauteuils\) pour être confortablement assis
 * les collations et rafraichissement appréciés des hommes et femmes de bien que vous allez incarner

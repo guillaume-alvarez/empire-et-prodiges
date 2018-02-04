@@ -30,9 +30,9 @@ Ensuite chacun des deux joueurs va jouer une carte de sa main face caché. Les c
 
 **Si les cartes sont de même rang, le contradicteur gagne le pli.**
 
-**Si une carte jouée avait un post-it, la personne ou l'objet indiqué doit être sacrifié lors de l'action.** Le joueur ayant gagné le pli doit inclure cela dans sa description. Le joueur ayant posé la carte peut évidemment aussi prendre la parole pour enrichir la description.
+**Si une carte jouée avait un atout, la personne, la connaissance ou l'objet indiqué doit être sacrifié lors de l'action.** Le joueur ayant gagné le pli doit inclure cela dans sa description. Le joueur ayant posé la carte peut évidemment aussi prendre la parole pour enrichir la description.
 
-**Si l'auteur de l'action initiale gagne le pli, il doit aussi écrire sur un post-it ce qu'il a obtenu et le coller sur la carte.**
+**Si l'auteur de l'action initiale gagne le pli, il doit y associer l'atout qu'il a obtenu.** En pratique il l'écrit sur un post-it qu'il colle sur la carte. L'atout en question peut être un objet, une connaissance, une relation particulière, etc.
 
 Enfin, **les cartes jouées sont mises dans la défausse des joueurs les ayant jouées.** Elles pourront être remises dans leur main quand il aura défaussé toutes ses cartes, donc après 8 actions contredites.
 
