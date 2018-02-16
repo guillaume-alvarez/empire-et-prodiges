@@ -4,7 +4,7 @@ La partie sera une suite de scènes, jusqu'au succès d'un rituel mené par les 
 
 ### Bien commencer les choses
 
-Quand une scène commence, l'Etat décrit les lieux de la scène et certaines personnages présents. Cette description doit expliciter plusieurs points pour les joueurs :
+Quand une scène commence, l'État décrit les lieux de la scène et certaines personnages présents. Cette description doit expliciter plusieurs points pour les joueurs :
 
 * **LIEU** où elle se déroule \(dans les couloirs du Palais du Luxembourg, dans une auberge sur la route de Meudon, sur le pont de l'Armoise au large des côtes, etc.\)
 * **TEMPS** quand elle se déroule \(le 3 janvier 1810, peu avant la bataille d'Arcole, juste après la fin de la scène précédente, etc.\)
@@ -16,9 +16,9 @@ La première scène commence toujours lors d'une réunion de la Société, dans 
 
 Les joueurs vont ensuite pouvoir interagir, décrire les actions de leurs personnages, interpréter leurs réactions, dialoguer et faire assaut de bons mots. Tant qu'ils agissent avec discrétion dans le cadre décrit rien de particulier ne se passe et tout le monde autour de la table peut apprécier ce moment.
 
-Quand un des joueurs \(l'Etat ou un des mages\) pense que ce qui est dit n'est pas raisonnable, pas réaliste, que de la magie est à l'oeuvre, que la cohérence est violée, en somme est offensé, il le signale aux autres, afin de vérifier la validité de la chose par un tirage de carte entre les joueurs impliqués et de clore la scène en cours.
+Quand un des joueurs \(l'État ou un des mages\) pense que ce qui est dit n'est pas raisonnable, pas réaliste, que de la magie est à l'oeuvre, que la cohérence est violée, en somme est offensé, il le signale aux autres, afin de vérifier la validité de la chose par un tirage de carte entre les joueurs impliqués et de clore la scène en cours.
 
-Il est possible d'arrêter une scène sans cela évidemment, si tous les mages et l'Etat présents dans la scène en cours s'accordent sur le lieu et le temps de la prochaine scène. L'action sera alors décidée par chaque mage pour leur personnage.
+Il est possible d'arrêter une scène sans cela évidemment, si tous les mages et l'État présents dans la scène en cours s'accordent sur le lieu et le temps de la prochaine scène. L'action sera alors décidée par chaque mage pour leur personnage.
 
 ### Tirer les cartes
 
@@ -36,7 +36,7 @@ Ensuite chacun des deux joueurs va jouer une carte de sa main face caché. Les c
 
 Enfin, **les cartes jouées sont mises dans la défausse des joueurs les ayant jouées.** Elles pourront être remises dans leur main quand il aura défaussé toutes ses cartes, donc après 8 actions contredites.
 
-Si l'Etat gagne le pli, il peut aussi décider de l'action de la prochaine scène \(forcément en lien avec la Police ou la Guerre\), sinon ce sont les mages qui en décident pour leur personnage.
+Si l'État gagne le pli, il peut aussi décider de l'action de la prochaine scène \(forcément en lien avec la Police ou la Guerre\), sinon ce sont les mages qui en décident pour leur personnage.
 
-Dans tous les cas la scène s'arrête et l'Etat en lance une nouvelle.
+**Dans tous les cas la scène s'arrête et l'État en lance une nouvelle.**
 

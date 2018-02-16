@@ -28,7 +28,7 @@ Lors d'une scène se déroulant en un lieu et un moment adéquat \(les mages son
 
 Il vont révéler les différents atouts requis \(un par ligne de la colonne choisie pour le rituel, le lien peut être symbolique, mais doit être clair\) et décrire le déroulement du rituel et ses conséquences pour la société, la ville, la personne, l'entité visée.
 
-**Tout désaccord entre les mages cause l'échec du rituel.** L'Etat en profite alors pour imposer sa volonté et la partie s'arrête sur cet échec.
+**Tout désaccord entre les mages cause l'échec du rituel.** L'É en profite alors pour imposer sa volonté et la partie s'arrête sur cet échec.
 
-En épilogue, les joueurs peuvent décrire tour à tour les conséquences pour leur personnage. L'Etat peut en décrire les effets sur plusieurs personnages qu'il a incarné.
+En épilogue, les joueurs peuvent décrire tour à tour les conséquences pour leur personnage. L'État peut en décrire les effets sur plusieurs personnages qu'il a incarné.
 

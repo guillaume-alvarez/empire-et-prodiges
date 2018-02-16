@@ -1,6 +1,6 @@
 # Création des personnages
 
-Un des joueur incarnera l'Etat, présidant la partie, décrivant les décors des scènes et interprétant les personnages qui les peuplent. Il interprètera aussi les diktats de la Providence. Ce rôle demande un peu plus d'imagination et de répartie que les autres, même s'il pourra évidemment demander de l'aide à ses comparses.
+Un des joueur incarnera l'État, présidant la partie, décrivant les décors des scènes et interprétant les personnages qui les peuplent. Il interprètera aussi les diktats de la Providence. Ce rôle demande un peu plus d'imagination et de répartie que les autres, même s'il pourra évidemment demander de l'aide à ses comparses.
 
 Les autres joueurs incarneront des mages, magiciens ou magiciennes, membres de la Société, cherchant à laisser leur marque dans l'Histoire de la Science et de la France. Chacun peut se choisir un nom, s'il ne souhaite pas utiliser celui par lequel les autres joueurs le connaissent déjà. Qu'il le dise clairement maintenant et le note sur post-it devant lui.
 
@@ -14,5 +14,5 @@ Chacun des mage colle ensuite sur le dos de ses 4 cartes de rang le plus élevé
 
 Les cartes de chaque mage, avec ou sans post-it, sont sa **main**. Ils pourront les jouer quand ils exécutent des tours magiques, ou les garder précieusement pour effectuer un rituel et finir la partie.
 
-Enfin l'Etat va expliquer la problématique de cette partie, tenant compte des discussions ayant eu lieu précédemment. Cette problématique doit impliquer les différents mages et les pousser à s'opposer à l"Etat. Elle permet aux mages d'envisager différent rituels possibles pour la résoudre.
+Enfin l'État va expliquer la problématique de cette partie, tenant compte des discussions ayant eu lieu précédemment. Cette problématique doit impliquer les différents mages et les pousser à s'opposer à l'État. Elle permet aux mages d'envisager différent rituels possibles pour la résoudre.
 
