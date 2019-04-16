@@ -8,8 +8,8 @@ Une partie prend 3 à 5 heures de jeu.
 
 Il faut pour jouer
 
-* 4 joueurs, dont un incarnera l'État
-* un jeu de 32 cartes
+* 4 joueurs ou joueuses de bonne compagnie, dont un incarnera l'État, puissant et oppressant
+* un jeu de 32 cartes classiques
   * 4 **couleurs** \(coeur, carreau, pique et trèfle\)
   * 8 **rangs** \(par ordre croissant : de 7 à 10 puis valet, dame, roi et as\)
 * des post-its ou petits papiers équivalents qu'on peut attacher à des cartes pour figurer les **atouts**
